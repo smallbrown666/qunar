@@ -1,6 +1,8 @@
 # whereareu
 
 ### 去哪儿APP
+  
+  项目演示:http://www.mxjx.xyz/qunar/
 
 ​	使用了VUE cli 3.+ 脚手架搭建
 
